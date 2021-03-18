@@ -1,0 +1,35 @@
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color:white;
+    background-color: rgba(0,0,0,0.6);
+    text-align: center;
+}
+
+
+.custom-row {
+    justify-content: space-between;
+    
+}
+body {
+    background-image: url("https://i.ibb.co/GRDdrpy/pole.jpg");
+    background-color: #cccccc;
+}
+p {
+    font-size: large;
+    font-weight: bold;
+    color: greenyellow;
+}
+h2 {
+    color: rgb(150, 137, 137);
+}
+
+.custom-cont {
+    background-color: rgba(0,0,0,0.6);
+    color: greenyellow;
+}
+.container {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

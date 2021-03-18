@@ -1,0 +1,14 @@
+{
+  "name": "football",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Girls' Power: Abduaitova D., Aptarbek A., Asetovna A., Khalymbetova K., Toguzova A.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
